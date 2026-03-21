@@ -20,7 +20,7 @@ Physical AI for Science represents the integration of embodied intelligence (rob
 - [🛠️ Software Frameworks & Tools](#️-software-frameworks--tools)
 - [🏢 Companies & Startups](#-companies--startups)
 - [📚 Key Papers](#-key-papers)
-- [📖 Books & Courses](#-books--courses)
+- [📖 Tutorials & Courses](#-tutorials--courses)
 - [🎯 Benchmarks & Datasets](#-benchmarks--datasets)
 - [🌐 Communities & Events](#-communities--events)
 - [🔗 Related Awesome Lists](#-related-awesome-lists)
@@ -352,7 +352,7 @@ Physical AI for Science represents the integration of embodied intelligence (rob
 | [Med-PaLM: LLMs encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2) | Nature | 2023 |
 | [GatorTron: Large Clinical Language Model](https://www.nature.com/articles/s41746-022-00742-2) | npj Digital Medicine | 2022 |
 
-## 📖 Books & Courses
+## 📖 Tutorials & Courses
 
 - 📘 [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055) — Chemical Reviews 2024
 - 📘 [Building an Affordable Self-Driving Lab](https://pubs.aip.org/aip/aml/article/3/4/046105/3369966) — APL Machine Learning 2025 (IoT-based, ~$60)
