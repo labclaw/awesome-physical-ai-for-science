@@ -132,7 +132,7 @@ Physical AI for Science represents the integration of embodied intelligence (rob
 | Tool | Description | Reference |
 |------|------------|-----------|
 | **Bayesian Optimization** | Standard for adaptive experimental design in SDLs | Various |
-| **SEEK** | Scientific Exploration with Expert Knowledge for scanning probe microscopy | Digital Discovery 2025 |
+| **SEEK** | Scientific Exploration with Expert Knowledge for scanning probe microscopy | [Digital Discovery 2025](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00277f) |
 | **BOSS** | Bayesian Optimization Structure Search | 2024 |
 
 ## 🔬 Domain-Specific Platforms
