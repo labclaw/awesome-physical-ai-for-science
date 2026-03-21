@@ -327,7 +327,7 @@ Physical AI for Science represents the integration of embodied intelligence (rob
 | Paper | Venue | Year | Key Result |
 |-------|-------|------|------------|
 | [LLM agents for automation of atomic force microscopy](https://www.nature.com/articles/s41467-025-64105-7) | Nature Communications | 2025 | AILA framework + AFMBench for evaluating LLM-driven AFM automation |
-| [Automating quantum computing experiments with agent-based AI](https://www.cell.com/patterns/fulltext/S2666-3899(25)00220-X) | Cell Patterns | 2025 | LLM agent autonomously plans, executes & analyzes quantum experiments |
+| [Automating quantum computing experiments with agent-based AI](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900220-X) | Cell Patterns | 2025 | LLM agent autonomously plans, executes & analyzes quantum experiments |
 | [LIRA: Localization, inspection and reasoning for SDL](https://www.nature.com/articles/s42004-025-01770-1) | Communications Chemistry | 2025 | Vision + reasoning module for autonomous lab workflows |
 | [LLMs in the scientific method: from hypothesis to discovery](https://www.nature.com/articles/s44387-025-00019-5) | npj Artificial Intelligence | 2025 | Comprehensive analysis of LLM roles across scientific method |
 | [AI Scientist: Fully automated scientific discovery](https://arxiv.org/abs/2408.06292) | arXiv / Sakana AI | 2024 | End-to-end research pipeline |
