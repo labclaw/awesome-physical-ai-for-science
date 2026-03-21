@@ -94,7 +94,7 @@ Physical AI for Science represents the integration of embodied intelligence (rob
 
 | Platform | Institution | Description | Link |
 |----------|------------|-------------|------|
-| **MADSci** | Argonne National Lab | Modular Autonomous Discovery for Science toolkit | [AD-SDL](https://github.com/AD-SDL) |
+| **MADSci** | Argonne National Lab | Modular Autonomous Discovery for Science toolkit | [AD-SDL](https://github.com/AD-SDL/MADSci) |
 | **LabClaw** | ![Stars](https://img.shields.io/github/stars/labclaw/labclaw?style=flat-square) | Open-source AI infrastructure for scientific labs — 5-layer architecture with self-evolving agents | [GitHub](https://github.com/labclaw/labclaw) |
 | **Polybot** | Center for Nanoscale Materials | Self-driving lab for polymer science | [polybot-nexus](https://github.com/polybot-nexus) |
 | **Opentrons Flex** | Opentrons | Open-source liquid handling robots | [Opentrons](https://github.com/Opentrons) |
